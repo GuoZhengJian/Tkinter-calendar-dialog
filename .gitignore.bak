@@ -2,6 +2,7 @@
 .spyproject/
 .get/
 __pycache__
+.gitattributes
 
 #忽略文件类型
 *.csv
