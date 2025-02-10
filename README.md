@@ -4,8 +4,6 @@ UP: 键盘侠十指如飞
 
 B站主页: https://space.bilibili.com/9570945
 
-AcFun主页: https://www.acfun.cn/u/72762081
-
 Tkinter的日历对话框, 用于选择日期和时间, 并将结果返回到widget.text上.
 
 ![屏幕截图(61)](https://user-images.githubusercontent.com/30211566/210386969-5dc55569-defd-4cd4-9781-a575fc1bdd76.png)
